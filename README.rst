@@ -15,6 +15,31 @@ Elle est orientée vers l'autonomie et le plaisir des étudiants (ainsi que des 
 
 https://us.pycon.org/2013/events/letslearnpython/
 
+Notre passé
+***********
+
+- Nous disposons d'une large communauté à travers le monde de dévelopeur dont des parents à même de dispenser et d'aider à dispenser les cours; 
+- nous disposons d'un format de cours et de support de cours; 
+- et enfin, de retour d'expérience sur les précendentes session «young coder»
+
+Notre objectif
+**************
+
+Nous souhaiterions en tant que parents frères et sœeurs, passionés et développeur inscrire cette intiative dans la durée afin d'offrir
+une alternative citoyenne et qu'on trouve cool à tous les minots du monde. 
+
+Nos coryons aussi dans le logiciel libre comme un modèle de collaboration et nous pensons qu'il n'y a pas meilleure méthode que la pratique pour transmettre ces valeurs. 
+
+Ce que nous attendons de vous
+*****************************
+
+- si vous êtes un désireux de voir cette introduction offerte à des jeunes enfants : contactez-nous ou appuyez vous sur nos supports pour former les enfants. Nos supports sont libres, pour que vous puissiez vous aussi les utiliser. Si vous le faites, n'hésitez pas à nous contacter car nous pouvons vous aider, mais aussi nous sommes intéressés par vos retours d'expériences.
+- si vous êtes un développeur ou passionné: on a besoin d'assistant de formations;
+- si vous êtes un commanditaire: même peu dispendieux les supports de cours et l'encadrements sont durs à trouver. Le financement des supports de cours (Raspberry pi à l'heure actuel) est à porté de main si les enfants sont issus de familles modestes. 
+- si vous êtes audacieux: nous aimerions faire évoluer la présente initiative dans la durée (en augmentant le nombre des sessions et les contenus des cours) et nous cherchons tous partenaires à même de nous aider avec son savoir faire. 
+
+
+
 Contenu
 =======
 
@@ -59,6 +84,9 @@ Il est recommandé d'avoir un formateur principal et 1 assistant par 2 enfants p
 
 Le formateur principal dirige la formation est donne le rythme.
 Les assistants ont pour mission cruciale tout autant de vérifier qu'aucun enfant soit laissé sur le bord du chemin, que de les aider à contourner des difficultés passagères. 
+
+On est là pour insufler le plaisir de programmer donc il est conseillé d'être relaché sur le rythmme. 
+
 
 
 
