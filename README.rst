@@ -67,7 +67,7 @@ Support de cours
 Le support de cours de pycon 2013 est ici 
 https://github.com/mechanicalgirl/young-coders-tutorial/blob/master/YoungCoders_v2.key.pdf?raw=true
 
-Le contenu étant en licence libre (note pour moi même : vérifier) il est possible de l'améliorer, de le faire évoluer ou de le traduire. 
+Le contenu étant en licence libre (https://github.com/kcunning/Katie-s-Rougish-PyGame/issues/31) il est possible de l'améliorer, de le faire évoluer ou de le traduire. 
 
 L'objectif est de donner un gabarit de jeu (comme celui-ci https://github.com/kcunning/Katie-s-Rougish-PyGame) et les connaissances 
 nécessaires à l'étudiant afin qu'il puisse de lui même améliorer le jeu ainsi livré.
