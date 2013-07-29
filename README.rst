@@ -6,6 +6,7 @@ Young coder est une iniative bénévole ayant pour but d'offrir une introduction
 La formation est en python: langage polyvalent et surtout que nous aimons. 
 
 Cette formation est faite pour être: 
+
 - facile à mettre en place;
 - accessible aux plus jeunes (10-12 ans) comme aux plus âgés (14-16ans);
 - ludique (notamment parce que le sujet étudié c'est les jeux:) );
@@ -38,6 +39,27 @@ Les rencontres que nous souhaitons
 - si vous êtes un commanditaire: même peu dispendieux les supports de cours et l'encadrements sont durs à trouver. Le financement des supports de cours (Raspberry pi à l'heure actuel) est à porté de main si les enfants sont issus de familles modestes. 
 - si vous êtes audacieux: nous aimerions faire évoluer la présente initiative dans la durée (en augmentant le nombre des sessions et les contenus des cours) et nous cherchons tous partenaires à même de nous aider avec leurs savoir faire. 
 
+Estimation des coûts et valorisation du bénévolat pour 40 étudiants
+===================================================================
+
+
+Coût
+****
+
+- Formateur principal 1 pour 40 étudiants: 100 $/ heure * 4 * 2 =       800$ par session
+- Assitant de formation 1 pour 2 étudiants 50  $ /heure * 4 * 2 * 20 = 8000$ par session
+- Setup matériel (écran clavier non fournis) 35$/étudiants 35 $ * 40 = 1400$ par session
+- total : *10200$* pour une session de 40 étudiants. 
+
+
+Bénéfice
+********
+
+- visibilité auprès des communauté de développeurs / parents sur un langage hautement recherché (un salaire de développeur python est 70k$/an)
+- initiative durable et possibilité de collaboration avec d'autres projets (initiative pédagogiques, groupes d'utilisateurs de lanages ...);
+- gratuité et ouverture des supports de cours permettant de sécuriser la formation dans la durée;
+- probable visibilité et gain de crédibilité positive automatique dans des canaux sociaux élitistes de communauté de developpeurs (slashdot, hackernews, reddit);
+
 
 
 Contenu (les détails pas drôles ^_^)
@@ -57,6 +79,7 @@ Outil
 *****
 
 Nous utilisons les outils livrés de bases avec python pour développer:
+
 - Idle (éditeur de code);
 - et «la console»
 
@@ -86,6 +109,7 @@ Le formateur principal dirige la formation est donne le rythme.
 Les assistants ont pour mission cruciale tout autant de vérifier qu'aucun enfant soit laissé sur le bord du chemin, que de les aider à contourner des difficultés passagères. 
 
 On est là pour insufler le plaisir de programmer donc il est conseillé d'être relaché sur le rythmme. 
+
 
 
 
